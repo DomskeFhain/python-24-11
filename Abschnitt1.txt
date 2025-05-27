@@ -1,0 +1,15 @@
+Lexis, Syntax & Semantik
+
+
+
+Lexis - Bausteine des Codes -> if, else, +, -
+Syntax - Grammatik der Programmiersprache -> print("Hallo Welt")
+
+Beispiel für Syntaxfehler:
+print("Hallo Welt) -> " vergessen am Ende 
+
+Semantik - die Bedeutung der Syntax
+
+print( 2 + 2 )
+print( 5 / 0 ) - semantischer Fehler
+print("5" + 3) 
