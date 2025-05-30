@@ -48,6 +48,6 @@ while True:
 
 ## Debug 8
 
-eingabe = input("Gib eine Zahl ein: ")
+eingabe = int(input("Gib eine Zahl ein: "))
 if eingabe > 10:
     print("größer als 10")
