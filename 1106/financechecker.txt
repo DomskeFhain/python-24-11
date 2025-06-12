@@ -1,0 +1,14 @@
+ Für das Symbol AAPL ist der aktuelle Kurs am: 2025-06-11 11:40:28.028114: 202.67
+ Für das Symbol MSFT ist der aktuelle Kurs am: 2025-06-11 11:40:28.495163: 470.92
+ Für das Symbol TSLA ist der aktuelle Kurs am: 2025-06-11 11:40:28.743177: 326.09
+ Für das Symbol GOOG ist der aktuelle Kurs am: 2025-06-11 11:40:29.029656: 180.01
+ Für das Symbol META ist der aktuelle Kurs am: 2025-06-11 11:40:29.264968: 702.4
+ Für das Symbol AMZN ist der aktuelle Kurs am: 2025-06-11 11:40:29.530901: 217.61
+ Für das Symbol MC.PA ist der aktuelle Kurs am: 2025-06-11 11:40:30.110864: 479.5
+ Für das Symbol AAPL ist der aktuelle Kurs am: 2025-06-11 11:41:17.450020: 202.67
+ Für das Symbol MSFT ist der aktuelle Kurs am: 2025-06-11 11:41:17.797652: 470.92
+ Für das Symbol TSLA ist der aktuelle Kurs am: 2025-06-11 11:41:18.007211: 326.09
+ Für das Symbol GOOG ist der aktuelle Kurs am: 2025-06-11 11:41:18.221222: 180.01
+ Für das Symbol META ist der aktuelle Kurs am: 2025-06-11 11:41:18.424546: 702.4
+ Für das Symbol AMZN ist der aktuelle Kurs am: 2025-06-11 11:41:18.676640: 217.61
+ Für das Symbol MC.PA ist der aktuelle Kurs am: 2025-06-11 11:41:18.960573: 479.6
